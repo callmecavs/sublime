@@ -10,10 +10,16 @@ My current Sublime Text 3 settings.
   "font_size": 12,
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
+  "ensure_newline_at_eof_on_save": true,
+  "drag_text": false,
+
   "enable_tab_scrolling": false,
+  "show_tab_close_buttons": false,
 
   "hot_exit": false,
   "remember_open_files": false,
+  "create_window_at_startup": false,
+  "preview_on_click": false,
 
   "word_separators": "./\\()\"':,.;<>~!@-#$%^&*|+=[]{}`~?",
 
