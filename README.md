@@ -10,6 +10,7 @@ My current Sublime Text 3 settings.
   "font_size": 12,
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
+  "trailing_spaces_trim_on_save": true,
   "ensure_newline_at_eof_on_save": true,
   "drag_text": false,
 
