@@ -15,7 +15,6 @@ My current Sublime Text 3 settings.
   "drag_text": false,
 
   "enable_tab_scrolling": false,
-  "show_tab_close_buttons": false,
 
   "hot_exit": false,
   "remember_open_files": false,
