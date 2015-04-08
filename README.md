@@ -27,8 +27,7 @@ My current Sublime Text 3 settings.
   "folder_exclude_patterns": [
     ".git",
     ".sass-cache",
-    "node_modules",
-    "dist"
+    "node_modules"
   ],
 
   "ignored_packages": [
