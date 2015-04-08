@@ -14,6 +14,7 @@ My current Sublime Text 3 settings.
   "ensure_newline_at_eof_on_save": true,
   "drag_text": false,
 
+  "rulers": [120],
   "enable_tab_scrolling": false,
 
   "hot_exit": false,
