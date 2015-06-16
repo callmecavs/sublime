@@ -1,6 +1,8 @@
 # sublime
 
-My current Sublime Text 3 settings.
+My current Sublime Text 3 configuration.
+
+## Settings
 
 ```json
 {
@@ -35,3 +37,12 @@ My current Sublime Text 3 settings.
   ],
 }
 ```
+
+## Packages
+
+* Color Highlighter
+* Package Control
+* Sass
+* SideBarEnhancements
+* Theme - itg.flat
+* Trailing Spaces
