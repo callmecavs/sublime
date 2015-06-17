@@ -4,10 +4,12 @@ My current Sublime Text 3 configuration.
 
 ## Settings
 
+Install the required packages, then copy/paste this into `Preferences -> Settings - User`.
+
 ```json
 {
-  "theme": "itg.flat.dark.sublime-theme",
-  "color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+  "theme": "Material-Theme.sublime-theme",
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 
   "font_size": 12,
   "line_padding_top": 2,
@@ -15,12 +17,12 @@ My current Sublime Text 3 configuration.
   "font_options": [
     "gray_antialias"
   ],
-	
+
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trailing_spaces_trim_on_save": true,
   "ensure_newline_at_eof_on_save": true,
-  
+
   "rulers": [
     120
   ],
@@ -52,5 +54,5 @@ My current Sublime Text 3 configuration.
 * Package Control
 * Sass
 * SideBarEnhancements
-* Theme - itg.flat
+* Material Theme
 * Trailing Spaces
