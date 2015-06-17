@@ -10,13 +10,21 @@ My current Sublime Text 3 configuration.
   "color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
 
   "font_size": 12,
+  "line_padding_top": 2,
+  "line_padding_bottom": 2,
+  "font_options": [
+    "gray_antialias"
+  ],
+	
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trailing_spaces_trim_on_save": true,
   "ensure_newline_at_eof_on_save": true,
+  
+  "rulers": [
+    120
+  ],
   "drag_text": false,
-
-  "rulers": [120],
   "enable_tab_scrolling": false,
 
   "hot_exit": false,
