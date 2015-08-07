@@ -53,6 +53,7 @@ Install the required packages, then copy/paste this into `Preferences -> Setting
 * Color Highlighter
 * Package Control
 * Sass
+* CSS3
 * SideBarEnhancements
 * Material Theme
 * Trailing Spaces
