@@ -43,6 +43,7 @@ Install the required packages, then copy/paste this into `Preferences -> Setting
   ],
 
   "ignored_packages": [
+    "CSS",
     "Vintage"
   ],
 }
