@@ -8,8 +8,8 @@ Install the required packages, then copy/paste this into `Preferences -> Setting
 
 ```json
 {
-  "theme": "Material-Theme-Darker.sublime-theme",
-  "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+  "theme": "Material-Theme-Lighter.sublime-theme",
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Lighter.tmTheme",
   "material_theme_contrast_mode": true,
 
   "font_face": "Roboto Mono",
